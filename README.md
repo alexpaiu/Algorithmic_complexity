@@ -10,6 +10,7 @@ By the end of this week, the goal is to be able to answer "yes" to these questio
  * Can you join a conversation about algorithms and their complexity?
 
 Examples function to test:
+* print
 * last
 * reverse
 * shuffle
